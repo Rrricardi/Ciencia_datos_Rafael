@@ -12,7 +12,7 @@
 
 **Una colección de proyectos prácticos que documentan mi aprendizaje en Ciencia de Datos, Análisis Numérico y Visualización con Python**
 
-[📂 Ver Notebooks](#-proyectos) • [🛠️ Tecnologías](#-tecnologías) • [📈 Roadmap](#-roadmap-de-aprendizaje) • [📬 Contacto](#-contacto)
+[📂 Ver Notebooks](#-proyectos) • [🛠️ Tecnologías](#-tecnologías) •  • [📬 Contacto](#ricardoromerorafaelduvan@gmail.com)
 
 </div>
 
