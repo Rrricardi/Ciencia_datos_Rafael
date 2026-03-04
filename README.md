@@ -54,10 +54,4 @@ Cada proyecto está diseñado para resolver un problema específico, desde la ma
 
 ---
 
-## 🚀 Cómo Ejecutar los Notebooks
 
-### 1. Clona el repositorio
-
-```bash
-git clone https://github.com/tu-usuario/data-science-projects.git
-cd data-science-projects
