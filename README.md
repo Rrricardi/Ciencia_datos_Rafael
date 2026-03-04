@@ -35,7 +35,7 @@ Cada proyecto está diseñado para resolver un problema específico, desde la ma
 | 001 | **[Transformación de Datos](notebooks/001_transformacion_datos.ipynb)** | Limpieza y reshape de matrices 100x100 | NumPy, genfromtxt, indexing | ⭐ |
 | 002 | **[Operaciones Matriciales](notebooks/002_operaciones_matriciales.ipynb)** | Suma, resta, multiplicación de matrices | Álgebra lineal, broadcasting | ⭐⭐ |
 | 003 | **[Manipulación de Imágenes](notebooks/003_manipulacion_imagenes.ipynb)** | Análisis de canales RGBA y píxeles | PIL, NumPy, Matplotlib | ⭐⭐ |
-| 004 | **[Superficies 3D](notebooks/004_superficies_3d.ipynb)** | Generación y visualización de funciones 3D | meshgrid, plot_surface | ⭐⭐⭐ |
+| 004 | **[Superficies 3D]([notebooks/004_superficies_3d.ipynb](https://github.com/Rrricardi/Ciencia_datos_Rafael/blob/main/Uso_Numpy.ipynb))** | Generación y visualización de funciones 3D | meshgrid, plot_surface | ⭐⭐⭐ |
 
 ---
 
